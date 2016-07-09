@@ -1,6 +1,6 @@
 # Microblogging App
 
-This is the sample microblogging application for using Ruby on Rails
+This is the sample microblogging application created using Ruby on Rails
 
 ## Getting started
 
